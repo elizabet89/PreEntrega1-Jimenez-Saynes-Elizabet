@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1-Jimenez-Saynes-Elizabet/static/css/main.391d4fdf.css",
+    "main.js": "/PreEntrega1-Jimenez-Saynes-Elizabet/static/js/main.c8f16d0f.js",
+    "static/media/logotipo.png": "/PreEntrega1-Jimenez-Saynes-Elizabet/static/media/logotipo.adb1fd609bde90843521.png",
+    "index.html": "/PreEntrega1-Jimenez-Saynes-Elizabet/index.html",
+    "main.391d4fdf.css.map": "/PreEntrega1-Jimenez-Saynes-Elizabet/static/css/main.391d4fdf.css.map",
+    "main.c8f16d0f.js.map": "/PreEntrega1-Jimenez-Saynes-Elizabet/static/js/main.c8f16d0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391d4fdf.css",
+    "static/js/main.c8f16d0f.js"
+  ]
+}
