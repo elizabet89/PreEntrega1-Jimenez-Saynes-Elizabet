@@ -8,6 +8,7 @@ function Navbar(){
     <nav className='navbar'>
 
       <img src={logotipo} className='navbar-img' alt='logotipo'/>
+      {/* src={(requiere'../imagenes/imagenes${props.imagen}')} */}
       <ul className='nav-list'>
         <li>
           <a className='nav-link' href='./'>Nike</a>

@@ -4,7 +4,7 @@ function CardWidget(){
   return(
 
      <div className='contenedor-icon'>
-      <i  className="bi bi-cart4 icon-carrito"></i>
+      <i  className="bi bi-cart4 icon-carrito">1</i>
      </div>
 
 
